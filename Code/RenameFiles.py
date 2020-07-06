@@ -24,3 +24,5 @@ def change_name(folder, format):
 folder = "C:\\Users\\Admin\\Pictures\\AmericaTour\\"
 
 change_name(folder,"18USA")
+
+#참고 사이트: https://data-make.tistory.com/171
